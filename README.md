@@ -1,6 +1,4 @@
 
-# Python & LLM Projects
-
 <img src="images/E_.png" alt="E_logo" width="200">
 
 ## 📝 **Overview**
@@ -10,23 +8,51 @@ Whether it's **Python-powered solutions, AI assistants, business automation tool
 
 ---
 
-## 🚀 **Available Projects**  
-Each project is designed with **scalability, efficiency, and customization** in mind. If you're interested in any of them, I offer various levels of access and customization options.
+## 🚀 **Premium Projects**  
+I develop **high-quality, scalable, and efficient** AI-powered solutions designed for real-world applications. These **premium projects** are not just standalone tools—they can serve as the **foundation for custom solutions**, allowing you to build upon them with ease.  
+
+### **Why Choose These Projects?**  
+✔ **Scalability** - Built to handle growth and high demand.  
+✔ **Efficiency** - Optimized for performance and reliability.  
+✔ **Customization** - Fully adaptable to your unique needs.  
+✔ **Modularity** - Can be used as a **base for other projects**, making development faster and more cost-effective.  
+
+💡 **Interested?** I offer flexible access levels, from limited previews to full customization and deployment. Contact me to discuss how I can tailor a solution for you.  
+
+---
 
 ### 🔒 [C-Vault](projects/C-Vault/README.md)  
 *Secure, efficient customs declaration management system developed for the Lebanese Customs Authority. Designed in response to the 2020 Port Beirut blast, it leverages advanced security measures and streamlined archiving to prevent data loss and enhance operational efficiency.*
 
+![C-Vault Screenshot](projects/C-Vault/screenshot.png)  
+
+---
+
 ### 🔒 [CalisMind](projects/CalisMind/README.md)  
 *AI-powered calisthenics assistant that transforms calisthenics knowledge into an interactive learning experience. Get real-time insights, detailed exercise breakdowns, and expert guidance tailored to your fitness journey.*
+
+![CalisMind Screenshot](projects/CalisMind/screenshot.png)  
+
+---
 
 ### 🔒 [DataSynth](projects/DataSynth/README.md)  
 *AI-driven synthetic dataset generator for researchers, data scientists, and developers. Supports multiple LLMs, allowing seamless dataset creation through an intuitive Gradio-based web UI.*
 
+![DataSynth Screenshot](projects/DataSynth/screenshot.png)  
+
+---
+
 ### 🔒 [MeetingRecap](projects/MeetingRecap/README.md)  
 *AI-powered meeting summarization tool that transcribes and extracts key insights from audio recordings. Uses OpenAI's Whisper for speech-to-text conversion and Meta's LLaMA for structured meeting minutes.*
 
+![MeetingRecap Screenshot](projects/MeetingRecap/screenshot.png)  
+
+---
+
 ### 🔒 [PriceWise](projects/PriceWise/README.md)  
 *AI-driven price tracking and deal discovery platform that monitors e-commerce pricing trends in real time. Predicts fair prices using machine learning and sends automated alerts for the best deals.*
+
+![PriceWise Screenshot](projects/PriceWise/screenshot.png)  
 
 ---
 
@@ -47,17 +73,17 @@ I offer **flexible access options** based on your needs. Whether you need **full
 💰 Payments are securely processed through **PayPal, Stripe, or Wise**. Pricing varies based on access level and custom modifications.
 
 ### **4️⃣ Receive Access**  
-🔹 **GitHub Access** – You’ll be added as a collaborator for full or partial repo access.  
-🔹 **ZIP File** – A downloadable package with selected files or the entire codebase.  
-🔹 **Custom Work** – Delivery of modified or additional features as per your request.
+🔹 **GitHub Access** - You’ll be added as a collaborator for full repo access within **24 hours**.  
+🔹 **ZIP File** - A downloadable package with selected files or the entire codebase within **1-2 business days**.  
+🔹 **Custom Work** - Delivery timeline depends on project scope (discussed individually).  
 
 ---
 
 ## 📌 **Why Choose My Solutions?**  
-✅ **Professionally Built** – Clean, efficient, and scalable code.  
-✅ **Customizable** – Tailored solutions for your business needs.  
-✅ **Direct Support** – Personalized assistance and improvements.  
-✅ **Exclusive Access** – Premium projects available only to selected clients.  
+✅ **Professionally Built** - Clean, efficient, and scalable code.  
+✅ **Customizable** - Tailored solutions for your business needs.  
+✅ **Direct Support** - Personalized assistance and improvements.  
+✅ **Exclusive Access** - Premium projects available only to selected clients.  
 
 ---
 
