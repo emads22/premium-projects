@@ -1,7 +1,9 @@
-<img src="logo/E_.png" alt="E_logo" width="200">
 
 # Python & LLM Projects
 
+<img src="images/E_.png" alt="E_logo" width="200">
+
+## 📝 **Overview**
 Welcome! My name is **Emad**, a **Python Software Engineer & LLM Engineer**, specializing in **AI-driven applications, intelligent automation, and custom LLM solutions**. I develop **scalable, efficient, and customizable** tools that enhance productivity, streamline workflows, and integrate AI-powered insights into real-world applications.
 
 Whether it's **Python-powered solutions, AI assistants, business automation tools, LLM-based applications, model fine-tuning, or agentic AI systems**, my projects are built to deliver **practical and high-performance AI solutions**.
@@ -11,17 +13,20 @@ Whether it's **Python-powered solutions, AI assistants, business automation tool
 ## 🚀 **Available Projects**  
 Each project is designed with **scalability, efficiency, and customization** in mind. If you're interested in any of them, I offer various levels of access and customization options.
 
-### 🔒 [CalisMind](projects/calismind.md)  
-*AI-Powered Calisthenics Assistant*  
-An intelligent assistant designed for calisthenics practitioners. It provides personalized workout insights, progress tracking, and AI-generated training plans based on expert sources.
+### 🔒 [C-Vault](projects/C-Vault/README.md)  
+*Secure, efficient customs declaration management system developed for the Lebanese Customs Authority. Designed in response to the 2020 Port Beirut blast, it leverages advanced security measures and streamlined archiving to prevent data loss and enhance operational efficiency.*
 
-### 🔒 [MeetingRecap](projects/meetingrecap.md)  
-*AI-Driven Meeting Minutes Generator*  
-This tool automates meeting summaries, action item tracking, and key insights extraction using **LLMs and NLP**. Ideal for professionals looking to streamline workflows and improve productivity.
+### 🔒 [CalisMind](projects/CalisMind/README.md)  
+*AI-powered calisthenics assistant that transforms calisthenics knowledge into an interactive learning experience. Get real-time insights, detailed exercise breakdowns, and expert guidance tailored to your fitness journey.*
 
-### 🔒 [XYZ AI App](projects/xyz.md)  
-*Custom AI Automation Tool*  
-A versatile AI-powered automation tool that can be tailored to various business needs, reducing manual tasks and increasing efficiency.
+### 🔒 [DataSynth](projects/DataSynth/README.md)  
+*AI-driven synthetic dataset generator for researchers, data scientists, and developers. Supports multiple LLMs, allowing seamless dataset creation through an intuitive Gradio-based web UI.*
+
+### 🔒 [MeetingRecap](projects/MeetingRecap/README.md)  
+*AI-powered meeting summarization tool that transcribes and extracts key insights from audio recordings. Uses OpenAI's Whisper for speech-to-text conversion and Meta's LLaMA for structured meeting minutes.*
+
+### 🔒 [PriceWise](projects/PriceWise/README.md)  
+*AI-driven price tracking and deal discovery platform that monitors e-commerce pricing trends in real time. Predicts fair prices using machine learning and sends automated alerts for the best deals.*
 
 ---
 
@@ -60,7 +65,10 @@ I offer **flexible access options** based on your needs. Whether you need **full
 If you're serious about leveraging **AI & Python-powered solutions**, let’s discuss how I can help you achieve your goals. **Reach out today!**  
 
 ---  
+
 🌐 **Website:** [Personal Website](https://emadsaab.pythonanywhere.com)  
 🐙 **GitHub Portfolio:** [GitHub Profile](https://github.com/emads22)  
 
 🚀 *Innovation starts with the right tools. Let’s create something powerful together!*  
+
+---
