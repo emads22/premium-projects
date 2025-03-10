@@ -1,4 +1,4 @@
-<img src="logo/E_.png" alt="E_logo" width="150">
+<img src="logo/E_.png" alt="E_logo" width="200">
 
 # Python & LLM Projects
 
