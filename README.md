@@ -66,8 +66,8 @@ If you're serious about leveraging **AI & Python-powered solutions**, let’s di
 
 ---  
 
-🌐 **Website:** [Personal Website](https://emadsaab.pythonanywhere.com)  
-🐙 **GitHub Portfolio:** [GitHub Profile](https://github.com/emads22)  
+🌐 **Website:** [emadsaab.pythonanywhere.com](https://emadsaab.pythonanywhere.com)  
+🐙 **GitHub:** [github.com/emads22](https://github.com/emads22)  
 
 🚀 *Innovation starts with the right tools. Let’s create something powerful together!*  
 
