@@ -24,35 +24,35 @@ I develop **high-quality, scalable, and efficient** AI-powered solutions designe
 ### 🔒 [C-Vault](projects/C-Vault/README.md)  
 *Secure, efficient customs declaration management system developed for the Lebanese Customs Authority. Designed in response to the 2020 Port Beirut blast, it leverages advanced security measures and streamlined archiving to prevent data loss and enhance operational efficiency.*
 
-![C-Vault Screenshot](projects/C-Vault/screenshot.png)  
+<img src="projects/C-Vault/C-vault_screenshot.png" alt="C-vault_screenshot" width="400">
 
 ---
 
 ### 🔒 [CalisMind](projects/CalisMind/README.md)  
 *AI-powered calisthenics assistant that transforms calisthenics knowledge into an interactive learning experience. Get real-time insights, detailed exercise breakdowns, and expert guidance tailored to your fitness journey.*
 
-![CalisMind Screenshot](projects/CalisMind/screenshot.png)  
+<img src="projects/CalisMind/CalisMind_screenshot.png" alt="CalisMind_screenshot" width="400">
 
 ---
 
 ### 🔒 [DataSynth](projects/DataSynth/README.md)  
 *AI-driven synthetic dataset generator for researchers, data scientists, and developers. Supports multiple LLMs, allowing seamless dataset creation through an intuitive Gradio-based web UI.*
 
-![DataSynth Screenshot](projects/DataSynth/screenshot.png)  
+<img src="projects/DataSynth/DataSynth_screenshot.png" alt="DataSynth_screenshot" width="400">
 
 ---
 
 ### 🔒 [MeetingRecap](projects/MeetingRecap/README.md)  
 *AI-powered meeting summarization tool that transcribes and extracts key insights from audio recordings. Uses OpenAI's Whisper for speech-to-text conversion and Meta's LLaMA for structured meeting minutes.*
 
-![MeetingRecap Screenshot](projects/MeetingRecap/screenshot.png)  
+<img src="projects/MeetingRecap/MeetingRecap_screenshot.png" alt="MeetingRecap_screenshot" width="400">
 
 ---
 
 ### 🔒 [PriceWise](projects/PriceWise/README.md)  
 *AI-driven price tracking and deal discovery platform that monitors e-commerce pricing trends in real time. Predicts fair prices using machine learning and sends automated alerts for the best deals.*
 
-![PriceWise Screenshot](projects/PriceWise/screenshot.png)  
+<img src="projects/PriceWise/PriceWise_screenshot.png" alt="PriceWise_screenshot" width="400">
 
 ---
 
