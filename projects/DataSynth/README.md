@@ -1,6 +1,8 @@
 # DataSynth: AI-Powered Synthetic Dataset Generator  
 
-<img src="../../logos/DataSynth_logo.png" alt="DataSynth_logo" width="200">
+### ⬅ [🔗 Back to Premium Projects](../../README.md) 
+
+<img src="../../logos/DataSynth_logo.png" alt="DataSynth_logo" width="300">
 
 ## Overview  
 DataSynth is an **AI-driven tool** designed to generate **high-quality structured synthetic datasets** using multiple **large language models (LLMs)**. Whether you're an **AI researcher, data scientist, or developer**, DataSynth provides a seamless way to create datasets tailored to your specific needs. It offers a **user-friendly web interface** powered by **Gradio**, allowing flexible and efficient dataset generation.
@@ -129,6 +131,4 @@ This launches an interactive **web UI** where users can **customize dataset para
 
 ---
 
-
-
-
+### ⬅ [🔗 Back to Premium Projects](../../README.md)

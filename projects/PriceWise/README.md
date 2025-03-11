@@ -1,6 +1,8 @@
 # PriceWise
 
-<img src="../../logos/PriceWise_logo.png" alt="PriceWise_logo" width="200">
+### ⬅ [🔗 Back to Premium Projects](../../README.md) 
+
+<img src="../../logos/PriceWise_logo.png" alt="PriceWise_logo" width="300">
 
 ## Overview
 
@@ -131,3 +133,4 @@ Certain components of **PriceWise** require additional **custom training and set
 
 ---
 
+### ⬅ [🔗 Back to Premium Projects](../../README.md)

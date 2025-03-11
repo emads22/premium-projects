@@ -1,6 +1,8 @@
 # CalisMind: Unlock the Art of Bodyweight Training
 
-<img src="../../logos/CalisMind_logo.png" alt="CalisMind_logo" width="200">
+### ⬅ [🔗 Back to Premium Projects](../../README.md) 
+
+<img src="../../logos/CalisMind_logo.png" alt="CalisMind_logo" width="300">
 
 ## Overview
 
@@ -153,3 +155,5 @@ This will guide you through the process of building a custom vector store for yo
 For advanced users, the vector store can be extended or replaced entirely based on specific needs, ensuring flexibility and adaptability for various domains beyond calisthenics.
 
 ---
+
+### ⬅ [🔗 Back to Premium Projects](../../README.md)
