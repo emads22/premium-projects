@@ -1,5 +1,5 @@
 
-<img src="images/E_.png" alt="E_logo" width="200">
+<img src="logos/E_.png" alt="E_logo" width="200">
 
 ## 📝 **Overview**
 Welcome! My name is **Emad**, a **Python Software Engineer & LLM Engineer**, specializing in **AI-driven applications, intelligent automation, and custom LLM solutions**. I develop **scalable, efficient, and customizable** tools that enhance productivity, streamline workflows, and integrate AI-powered insights into real-world applications.
