@@ -24,63 +24,51 @@ These **high-quality solutions** are built for **real-world impact** and can be 
 
 ---
 
-## [🔒 C-Vault 🔗](projects/C-Vault/README.md)  
-*Secure, efficient customs declaration management system developed for the Lebanese Customs Authority. Designed in response to the 2020 Port Beirut blast, it leverages advanced security measures and streamlined archiving to prevent data loss and enhance operational efficiency.*
-
-<img src="projects/C-Vault/C-vault_logo.png" alt="C-vault_logo" width="150">
-
----
-
-## [🔒 CalisMind 🔗](projects/CalisMind/README.md)  
+## 🧠 AI and LLM Solutions
+### [🔒 CalisMind 🔗](projects/CalisMind/README.md)  
 *AI-powered calisthenics assistant that transforms calisthenics knowledge into an interactive learning experience. Get real-time insights, detailed exercise breakdowns, and expert guidance tailored to your fitness journey.*
 
 <img src="projects/CalisMind/CalisMind_logo.png" alt="CalisMind_logo" width="150">
 
----
-
-## [🔒 CensorFace 🔗](projects/CensorFace/README.md)  
-*A Python tool for enhancing privacy in videos by censoring faces using blurring, boxing, or cat face overlays. Ideal for anonymizing individuals in public footage or sensitive content.*  
-
-<img src="projects/CensorFace/CensorFace_logo.png" alt="CensorFace_logo" width="150">  
-
----
-
-## [🔒 DataSynth 🔗](projects/DataSynth/README.md)  
+### [🔒 DataSynth 🔗](projects/DataSynth/README.md)  
 *AI-driven synthetic dataset generator for researchers, data scientists, and developers. Supports multiple LLMs, allowing seamless dataset creation through an intuitive Gradio-based web UI.*
 
 <img src="projects/DataSynth/DataSynth_logo.png" alt="DataSynth_logo" width="150">
 
----
-
-## [🔒 MarketMapper 🔗](projects/MarketMapper/README.md)  
-*A Python-based tool for downloading historical stock data from Yahoo Finance and scraping real-time currency conversion rates. Designed for traders, analysts, and finance professionals looking to streamline market data retrieval.*  
-
-<img src="projects/MarketMapper/MarketMapper_logo.png" alt="MarketMapper_logo" width="150">  
-
----
-
-## [🔒 MeetingRecap 🔗](projects/MeetingRecap/README.md)  
+### [🔒 MeetingRecap 🔗](projects/MeetingRecap/README.md)  
 *AI-powered meeting summarization tool that transcribes and extracts key insights from audio recordings. Uses OpenAI's Whisper for speech-to-text conversion and Meta's LLaMA for structured meeting minutes.*
 
 <img src="projects/MeetingRecap/MeetingRecap_logo.png" alt="MeetingRecap_logo" width="150">
 
----
-
-## [🔒 NoteStruct 🔗](projects/NoteStruct/README.md)  
-*A Python tool for generating structured, printable PDF notebooks with customizable topics and layouts. Designed to mimic real notebooks with lined pages and a yellow background, it's perfect for education, study, and professional note-taking.*  
-
-<img src="projects/NoteStruct/NoteStruct_logo.png" alt="NoteStruct_logo" width="150">  
-
----
-
-## [🔒 PriceWise 🔗](projects/PriceWise/README.md)  
+### [🔒 PriceWise 🔗](projects/PriceWise/README.md)  
 *AI-driven price tracking and deal discovery platform that monitors e-commerce pricing trends in real time. Predicts fair prices using machine learning and sends automated alerts for the best deals.*
 
 <img src="projects/PriceWise/PriceWise_logo.png" alt="PriceWise_logo" width="150">
 
 ---
 
-## [🔒 ShapeArt 🔗](projects/ShapeArt/README.md)  
+## 💻 **Application Development**  
+### [🔒 C-Vault 🔗](projects/C-Vault/README.md)  
+*Secure, efficient customs declaration management system developed for the Lebanese Customs Authority. Designed in response to the 2020 Port Beirut blast, it leverages advanced security measures and streamlined archiving to prevent data loss and enhance operational efficiency.*
+
+<img src="projects/C-Vault/C-vault_logo.png" alt="C-vault_logo" width="150">
+
+### [🔒 CensorFace 🔗](projects/CensorFace/README.md)  
+*A Python tool for enhancing privacy in videos by censoring faces using blurring, boxing, or cat face overlays. Ideal for anonymizing individuals in public footage or sensitive content.*  
+
+<img src="projects/CensorFace/CensorFace_logo.png" alt="CensorFace_logo" width="150">  
+
+### [🔒 MarketMapper 🔗](projects/MarketMapper/README.md)  
+*A Python-based tool for downloading historical stock data from Yahoo Finance and scraping real-time currency conversion rates. Designed for traders, analysts, and finance professionals looking to streamline market data retrieval.*  
+
+<img src="projects/MarketMapper/MarketMapper_logo.png" alt="MarketMapper_logo" width="150">  
+
+### [🔒 NoteStruct 🔗](projects/NoteStruct/README.md)  
+*A Python tool for generating structured, printable PDF notebooks with customizable topics and layouts. Designed to mimic real notebooks with lined pages and a yellow background, it's perfect for education, study, and professional note-taking.*  
+
+<img src="projects/NoteStruct/NoteStruct_logo.png" alt="NoteStruct_logo" width="150">  
+
+### [🔒 ShapeArt 🔗](projects/ShapeArt/README.md)  
 *A Python CLI tool for drawing and saving shape-based artwork. Create circles, rectangles, and squares with customizable sizes and colors on a digital canvas.*  
 
 <img src="projects/ShapeArt/ShapeArt_logo.png" alt="ShapeArt_logo" width="150">  
