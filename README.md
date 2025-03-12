@@ -79,6 +79,13 @@ These **high-quality solutions** are built for **real-world impact** and can be 
 
 ---
 
+## [🔒 ShapeArt 🔗](projects/ShapeArt/README.md)  
+*A Python CLI tool for drawing and saving shape-based artwork. Create circles, rectangles, and squares with customizable sizes and colors on a digital canvas.*  
+
+<img src="projects/ShapeArt/ShapeArt_screenshot.png" alt="ShapeArt_screenshot" width="400">  
+
+---
+
 ## 💼 **How to Get Access?**  
 I offer **flexible access options** based on your needs. Whether you need **full repository access, specific files, or a customized version**, I’ve got you covered.  
 
