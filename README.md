@@ -1,5 +1,5 @@
 
-<img src="logos/E_circle.png" alt="E_logo" width="300">
+<img src="logo/E_circle.png" alt="E_logo" width="300">
 
 ## 📝 **Overview** 
 In today’s competitive landscape, businesses need **intelligent, scalable, and high-performance solutions** to stay ahead. This collection of **premium projects** offers **cutting-edge software and AI-powered innovations**, providing **ready-to-use, enterprise-grade applications** that can be **customized, expanded, and integrated** to meet your specific business needs.  
@@ -48,6 +48,13 @@ These **high-quality solutions** are built for **real-world impact** and can be 
 *AI-powered meeting summarization tool that transcribes and extracts key insights from audio recordings. Uses OpenAI's Whisper for speech-to-text conversion and Meta's LLaMA for structured meeting minutes.*
 
 <img src="projects/MeetingRecap/MeetingRecap_screenshot.png" alt="MeetingRecap_screenshot" width="400">
+
+---
+
+## [🔒 NoteStruct 🔗](projects/NoteStruct/README.md)  
+*A Python tool for generating structured, printable PDF notebooks with customizable topics and layouts. Designed to mimic real notebooks with lined pages and a yellow background, it's perfect for education, study, and professional note-taking.*  
+
+<img src="projects/NoteStruct/NoteStruct_screenshot.png" alt="NoteStruct_screenshot" width="400">  
 
 ---
 

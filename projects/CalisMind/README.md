@@ -2,7 +2,7 @@
 
 ### ⬅ [🔗 Back to Premium Projects](../../README.md) 
 
-<img src="../../logos/CalisMind_logo.png" alt="CalisMind_logo" width="300">
+<img src="./CalisMind_logo.png" alt="CalisMind_logo" width="300">
 
 ## Overview
 

@@ -2,7 +2,7 @@
 
 ### ⬅ [🔗 Back to Premium Projects](../../README.md) 
 
-<img src="../../logos/PriceWise_logo.png" alt="PriceWise_logo" width="300">
+<img src="./PriceWise_logo.png" alt="PriceWise_logo" width="300">
 
 ## Overview
 

@@ -2,7 +2,7 @@
 
 ### ⬅ [🔗 Back to Premium Projects](../../README.md) 
 
-<img src="../../logos/C_Vault_logo.png" alt="C_Vault_logo" width="300">
+<img src="./C_Vault_logo.png" alt="C_Vault_logo" width="300">
 
 ## Overview
 C-Vault is a dedicated solution designed for efficiently managing and archiving customs declarations. It offers a range of key features aimed at simplifying the process of handling customs documents, ensuring security, accessibility, and ease of use.
