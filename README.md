@@ -37,10 +37,24 @@ These **high-quality solutions** are built for **real-world impact** and can be 
 
 ---
 
+## [🔒 CensorFace 🔗](projects/CensorFace/README.md)  
+*A Python tool for enhancing privacy in videos by censoring faces using blurring, boxing, or cat face overlays. Ideal for anonymizing individuals in public footage or sensitive content.*  
+
+<img src="projects/CensorFace/CensorFace_screenshot.png" alt="CensorFace_screenshot" width="400">  
+
+---
+
 ## [🔒 DataSynth 🔗](projects/DataSynth/README.md)  
 *AI-driven synthetic dataset generator for researchers, data scientists, and developers. Supports multiple LLMs, allowing seamless dataset creation through an intuitive Gradio-based web UI.*
 
 <img src="projects/DataSynth/DataSynth_screenshot.png" alt="DataSynth_screenshot" width="400">
+
+---
+
+## [🔒 MarketMapper 🔗](projects/MarketMapper/README.md)  
+*A Python-based tool for downloading historical stock data from Yahoo Finance and scraping real-time currency conversion rates. Designed for traders, analysts, and finance professionals looking to streamline market data retrieval.*  
+
+<img src="projects/MarketMapper/MarketMapper_screenshot.png" alt="MarketMapper_screenshot" width="400">  
 
 ---
 
