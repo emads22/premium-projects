@@ -1,7 +1,5 @@
 # MarketMapper
 
-### ⬅ [🔗 Back to Premium Projects](../../README.md) 
-
 <img src="./MarketMapper_logo.png" alt="MarketMapper_logo" width="300">
 
 ## Overview

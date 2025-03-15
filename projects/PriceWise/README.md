@@ -1,7 +1,5 @@
 # PriceWise
 
-### ⬅ [🔗 Back to Premium Projects](../../README.md) 
-
 <img src="./PriceWise_logo.png" alt="PriceWise_logo" width="300">
 
 ## Overview

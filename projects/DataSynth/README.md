@@ -1,7 +1,5 @@
 # DataSynth: AI-Powered Synthetic Dataset Generator  
 
-### ⬅ [🔗 Back to Premium Projects](../../README.md) 
-
 <img src="./DataSynth_logo.png" alt="DataSynth_logo" width="300">
 
 ## Overview  

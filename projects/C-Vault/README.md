@@ -1,7 +1,5 @@
 # C-Vault: Customs Declarations Management System
 
-### ⬅ [🔗 Back to Premium Projects](../../README.md) 
-
 <img src="./C_Vault_logo.png" alt="C_Vault_logo" width="300">
 
 ## Overview

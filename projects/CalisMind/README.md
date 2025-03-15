@@ -1,7 +1,5 @@
 # CalisMind: Unlock the Art of Bodyweight Training
 
-### ⬅ [🔗 Back to Premium Projects](../../README.md) 
-
 <img src="./CalisMind_logo.png" alt="CalisMind_logo" width="300">
 
 ## Overview

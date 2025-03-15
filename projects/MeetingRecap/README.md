@@ -1,8 +1,6 @@
 
 # MeetingRecap
 
-### ⬅ [🔗 Back to Premium Projects](../../README.md) 
-
 <img src="./MeetingRecap_logo.png" alt="MeetingRecap_logo" width="300">
 
 ## Overview

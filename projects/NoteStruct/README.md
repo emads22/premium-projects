@@ -1,7 +1,5 @@
 # NoteStruct
 
-### ⬅ [🔗 Back to Premium Projects](../../README.md) 
-
 <img src="./NoteStruct_logo.png" alt="NoteStruct_logo" width="300">
 
 ## Overview

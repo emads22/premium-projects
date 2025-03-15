@@ -1,7 +1,5 @@
 # ShapeArt: Abstract Drawing Tool
 
-### ⬅ [🔗 Back to Premium Projects](../../README.md) 
-
 <img src="./ShapeArt_logo.png" alt="ShapeArt_logo" width="300">
 
 ## Overview

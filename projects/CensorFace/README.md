@@ -1,7 +1,5 @@
 # CensorFace: Video Face Blur Tool
 
-### ⬅ [🔗 Back to Premium Projects](../../README.md) 
-
 <img src="./CensorFace_logo.png" alt="CensorFace_logo" width="300">
 
 ## Overview
