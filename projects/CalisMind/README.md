@@ -154,4 +154,4 @@ For advanced users, the vector store can be extended or replaced entirely based 
 
 ---
 
-### ⬅ [🔗 Back to Premium Projects](../../README.md)
+### ⬅ [🔗 Back to Premium Projects](../../README.md#-ai-and-llm-solutions)

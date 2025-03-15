@@ -100,4 +100,4 @@ If you'd like to run the app in a Docker container, follow these steps:
 
 ---
 
-### ⬅ [🔗 Back to Premium Projects](../../README.md)
+### ⬅ [🔗 Back to Premium Projects](../../README.md#-ai-and-llm-solutions)

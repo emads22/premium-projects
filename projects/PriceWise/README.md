@@ -131,4 +131,4 @@ Certain components of **PriceWise** require additional **custom training and set
 
 ---
 
-### ⬅ [🔗 Back to Premium Projects](../../README.md)
+### ⬅ [🔗 Back to Premium Projects](../../README.md#-ai-and-llm-solutions)

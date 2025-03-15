@@ -129,4 +129,4 @@ This launches an interactive **web UI** where users can **customize dataset para
 
 ---
 
-### ⬅ [🔗 Back to Premium Projects](../../README.md)
+### ⬅ [🔗 Back to Premium Projects](../../README.md#-ai-and-llm-solutions)
