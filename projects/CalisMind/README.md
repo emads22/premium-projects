@@ -1,6 +1,6 @@
 # CalisMind: Unlock the Art of Bodyweight Training
 
-<img src="./CalisMind_logo.png" alt="CalisMind_logo" width="300">
+<img src="screenshots/CalisMind-1.png" alt="CalisMind_logo" width="300">
 
 ## Overview
 

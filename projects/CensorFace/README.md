@@ -1,6 +1,6 @@
 # CensorFace: Video Face Blur Tool
 
-<img src="./CensorFace_logo.png" alt="CensorFace_logo" width="300">
+<img src="screenshots/CensorFace-1.png" alt="CensorFace_logo" width="300">
 
 ## Overview
 **CensorFace** is a Python script designed to enhance privacy in videos by censoring faces. It offers various methods such as `blurring`, `boxing`, or even replacing faces with `cat face` images. This tool is particularly useful for scenarios where individuals in videos need to be anonymized for privacy reasons, such as public footage or sensitive content.

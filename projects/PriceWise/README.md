@@ -1,6 +1,6 @@
 # PriceWise
 
-<img src="./PriceWise_logo.png" alt="PriceWise_logo" width="300">
+<img src="screenshots/PriceWise-1.png" alt="PriceWise_logo" width="300">
 
 ## Overview
 

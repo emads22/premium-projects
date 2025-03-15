@@ -1,7 +1,7 @@
 
 # MeetingRecap
 
-<img src="./MeetingRecap_logo.png" alt="MeetingRecap_logo" width="300">
+<img src="screenshots/MeetingRecap-1.png" alt="MeetingRecap_logo" width="300">
 
 ## Overview
 **MeetingRecap** is a fully-fledged Python application designed to automatically generate detailed meeting minutes from audio recordings. It uses OpenAI's `Whisper` model for high-quality speech-to-text conversion and Meta's `LLaMA` model for summarizing transcripts into well-structured meeting minutes. The app is equipped with a **Gradio** interface for easy interaction, allowing users to upload audio files and quickly retrieve clear, concise meeting summaries in markdown format.

@@ -1,6 +1,6 @@
 # ShapeArt: Abstract Drawing Tool
 
-<img src="./ShapeArt_logo.png" alt="ShapeArt_logo" width="300">
+<img src="screenshots/ShapeArt-1.png" alt="ShapeArt_logo" width="300">
 
 ## Overview
 Drawing Shapes on Canvas is a Python CLI application designed to create and save images of shapes drawn on a canvas. The application, now known as **`ShapeArt`**, allows users to draw circles, rectangles, and squares of various dimensions and colors on a canvas and save the resulting image. It leverages Object-Oriented Programming (OOP) principles for modularity and code organization.

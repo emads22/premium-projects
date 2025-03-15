@@ -1,6 +1,6 @@
 # NoteStruct
 
-<img src="./NoteStruct_logo.png" alt="NoteStruct_logo" width="300">
+<img src="screenshots/NoteStruct-1.png" alt="NoteStruct_logo" width="300">
 
 ## Overview
 **NoteStruct** is a versatile Python script designed to create a PDF notebook with customizable topics and page layouts. It offers a simulated notebook-like appearance, featuring yellow backgrounds and horizontal lines, which is ideal for various educational or note-taking purposes.

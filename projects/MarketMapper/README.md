@@ -1,6 +1,6 @@
 # MarketMapper
 
-<img src="./MarketMapper_logo.png" alt="MarketMapper_logo" width="300">
+<img src="screenshots/MarketMapper-1.png" alt="MarketMapper_logo" width="300">
 
 ## Overview
 **MarketMapper** is a Python-based tool consisting of two scripts: one for downloading historical stock data from [Yahoo Finance](https://finance.yahoo.com/) using Selenium and another for scraping currency conversion rates from [x-rates](https://www.x-rates.com/calculator/) website using BeautifulSoup. The stock data downloader allows users to specify a stock ticker symbol along with start and end dates to download historical stock data in CSV format. The currency converter prompts users to input currency symbols for conversion and then fetches the current conversion rate between the specified currencies.
