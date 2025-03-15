@@ -25,14 +25,6 @@ These **high-quality solutions** are built for **real-world impact** and can be 
 ---
 
 ## 🧠 AI and LLM Solutions
-### [🔒 **CalisMind** 🔗](projects/CalisMind/README.md)  
-<img src="projects/CalisMind/screenshots/CalisMind-1.png" alt="CalisMind_logo" width="150">
-
-*AI-powered calisthenics assistant that transforms calisthenics knowledge into an interactive learning experience. Get real-time insights, detailed exercise breakdowns, and expert guidance tailored to your fitness journey.*  
-<br>
-<a href="projects/CalisMind/screenshots/map.md">📷 <b>Screenshots</b></a>
-
----
 
 ### [🔒 **DataSynth** 🔗](projects/DataSynth/README.md) 
 <img src="projects/DataSynth/screenshots/DataSynth-1.png" alt="DataSynth_logo" width="150">
@@ -40,15 +32,6 @@ These **high-quality solutions** are built for **real-world impact** and can be 
 *AI-driven synthetic dataset generator for researchers, data scientists, and developers. Supports multiple LLMs, allowing seamless dataset creation through an intuitive Gradio-based web UI.*  
 <br>
 <a href="projects/DataSynth/screenshots/map.md">📷 <b>Screenshots</b></a>
-
----
-
-### [🔒 **MeetingRecap** 🔗](projects/MeetingRecap/README.md)  
-<img src="projects/MeetingRecap/screenshots/MeetingRecap-1.png" alt="MeetingRecap_logo" width="150">
-
-*AI-powered meeting summarization tool that transcribes and extracts key insights from audio recordings. Uses OpenAI's Whisper for speech-to-text conversion and Meta's LLaMA for structured meeting minutes.*  
-<br>
-<a href="projects/MeetingRecap/screenshots/map.md">📷 <b>Screenshots</b></a>
 
 ---
 
@@ -61,13 +44,41 @@ These **high-quality solutions** are built for **real-world impact** and can be 
 
 ---
 
+### [🔒 **MeetingRecap** 🔗](projects/MeetingRecap/README.md)  
+<img src="projects/MeetingRecap/screenshots/MeetingRecap-1.png" alt="MeetingRecap_logo" width="150">
+
+*AI-powered meeting summarization tool that transcribes and extracts key insights from audio recordings. Uses OpenAI's Whisper for speech-to-text conversion and Meta's LLaMA for structured meeting minutes.*  
+<br>
+<a href="projects/MeetingRecap/screenshots/map.md">📷 <b>Screenshots</b></a>
+
+---
+
+### [🔒 **CalisMind** 🔗](projects/CalisMind/README.md)  
+<img src="projects/CalisMind/screenshots/CalisMind-1.png" alt="CalisMind_logo" width="150">
+
+*AI-powered calisthenics assistant that transforms calisthenics knowledge into an interactive learning experience. Get real-time insights, detailed exercise breakdowns, and expert guidance tailored to your fitness journey.*  
+<br>
+<a href="projects/CalisMind/screenshots/map.md">📷 <b>Screenshots</b></a>
+
+---
+
 ## 💻 **Application Development**  
+
 ### [🔒 **C-Vault** 🔗](projects/C-Vault/README.md)  
 <img src="projects/C-Vault/screenshots/C-vault-1.png" alt="C-vault_logo" width="150">
 
 *Secure, efficient customs declaration management system developed for the Lebanese Customs Authority. Designed in response to the 2020 Port Beirut blast, it leverages advanced security measures and streamlined archiving to prevent data loss and enhance operational efficiency.*  
 <br>
 <a href="projects/C-Vault/screenshots/map.md">📷 <b>Screenshots</b></a>
+
+---
+
+### [🔒 **NoteStruct** 🔗](projects/NoteStruct/README.md) 
+<img src="projects/NoteStruct/screenshots/NoteStruct-1.png" alt="NoteStruct_logo" width="150">
+
+*A Python tool for generating structured, printable PDF notebooks with customizable topics and layouts. Designed to mimic real notebooks with lined pages and a yellow background, it's perfect for education, study, and professional note-taking.*  
+<br>
+<a href="projects/NoteStruct/screenshots/map.md">📷 <b>Screenshots</b></a>
 
 ---
 
@@ -86,15 +97,6 @@ These **high-quality solutions** are built for **real-world impact** and can be 
 *A Python-based tool for downloading historical stock data from Yahoo Finance and scraping real-time currency conversion rates. Designed for traders, analysts, and finance professionals looking to streamline market data retrieval.*  
 <br>
 <a href="projects/MarketMapper/screenshots/map.md">📷 <b>Screenshots</b></a> 
-
----
-
-### [🔒 **NoteStruct** 🔗](projects/NoteStruct/README.md) 
-<img src="projects/NoteStruct/screenshots/NoteStruct-1.png" alt="NoteStruct_logo" width="150">
-
-*A Python tool for generating structured, printable PDF notebooks with customizable topics and layouts. Designed to mimic real notebooks with lined pages and a yellow background, it's perfect for education, study, and professional note-taking.*  
-<br>
-<a href="projects/NoteStruct/screenshots/map.md">📷 <b>Screenshots</b></a>
 
 ---
 
