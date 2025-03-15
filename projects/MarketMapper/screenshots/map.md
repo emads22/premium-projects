@@ -13,9 +13,6 @@
 <a href="MarketMapper-8.png"><img src="MarketMapper-8.png" width="400"></a>
 <a href="MarketMapper-9.png"><img src="MarketMapper-9.png" width="400"></a>
 <a href="MarketMapper-10.png"><img src="MarketMapper-10.png" width="400"></a>
-<a href="MarketMapper-11.png"><img src="MarketMapper-11.png" width="400"></a>
-<a href="MarketMapper-12.png"><img src="MarketMapper-12.png" width="400"></a>
-<a href="MarketMapper-13.png"><img src="MarketMapper-13.png" width="400"></a>
 
 ---
 
