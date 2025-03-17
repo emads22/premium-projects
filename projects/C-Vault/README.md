@@ -1,16 +1,16 @@
-# C-Vault: Customs Declarations Management System
+# C-vault: Customs Declarations Management System
 
 <img src="screenshots/C-vault-1.png" alt="C-vault_logo" width="300">
 
 ## Overview
-C-Vault is a dedicated solution designed for efficiently managing and archiving customs declarations. It offers a range of key features aimed at simplifying the process of handling customs documents, ensuring security, accessibility, and ease of use.
+C-vault is a dedicated solution designed for efficiently managing and archiving customs declarations. It offers a range of key features aimed at simplifying the process of handling customs documents, ensuring security, accessibility, and ease of use.
 
 ---
 
 ## Developed for Lebanese Customs
-In the wake of the devastating Port Beirut blast in 2020, which resulted in the significant loss of customs declarations, there was an urgent need for a robust and reliable system to manage and safeguard these critical documents. C-Vault was developed specifically to address this need for the Lebanese Customs Authority.
+In the wake of the devastating Port Beirut blast in 2020, which resulted in the significant loss of customs declarations, there was an urgent need for a robust and reliable system to manage and safeguard these critical documents. C-vault was developed specifically to address this need for the Lebanese Customs Authority.
 
-This system is designed to provide a secure, efficient, and user-friendly solution for the archiving and management of customs declarations. By leveraging advanced technologies and implementing stringent security measures, C-Vault ensures the preservation and accessibility of customs records, thereby mitigating the risk of future data losses.
+This system is designed to provide a secure, efficient, and user-friendly solution for the archiving and management of customs declarations. By leveraging advanced technologies and implementing stringent security measures, C-vault ensures the preservation and accessibility of customs records, thereby mitigating the risk of future data losses.
 
 Key benefits for the Lebanese Customs Authority include:
 - Enhanced data security through encrypted communications and role-based access control.
@@ -18,7 +18,7 @@ Key benefits for the Lebanese Customs Authority include:
 - Improved accessibility with multi-user support and centralized database management.
 - Streamlined document management processes that facilitate the easy retrieval, updating, and reporting of customs declarations.
 
-C-Vault represents a significant step forward in modernizing the customs declaration management infrastructure, ensuring resilience against potential future disruptions and enhancing operational efficiency.
+C-vault represents a significant step forward in modernizing the customs declaration management infrastructure, ensuring resilience against potential future disruptions and enhancing operational efficiency.
 
 ---
 
@@ -142,7 +142,7 @@ C-Vault represents a significant step forward in modernizing the customs declara
 ---
 
 ## Conclusion
-C-Vault offers a comprehensive solution for efficiently managing and archiving customs declarations. With its robust features, user-friendly interface, and emphasis on security, it is an ideal choice for organizations seeking to streamline their customs document management processes.
+C-vault offers a comprehensive solution for efficiently managing and archiving customs declarations. With its robust features, user-friendly interface, and emphasis on security, it is an ideal choice for organizations seeking to streamline their customs document management processes.
 
 ---
 

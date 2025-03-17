@@ -64,12 +64,12 @@ These **high-quality solutions** are built for **real-world impact** and can be 
 
 ## 💻 **Application Development**  
 
-### [🔒 **C-Vault** 🔗](projects/C-Vault/README.md)  
-<img src="projects/C-Vault/screenshots/C-vault-1.png" alt="C-vault_logo" width="150">
+### [🔒 **C-vault** 🔗](projects/C-vault/README.md)  
+<img src="projects/C-vault/screenshots/C-vault-1.png" alt="C-vault_logo" width="150">
 
 *Secure, efficient customs declaration management system developed for the Lebanese Customs Authority. Designed in response to the 2020 Port Beirut blast, it leverages advanced security measures and streamlined archiving to prevent data loss and enhance operational efficiency.*  
 <br>
-<a href="projects/C-Vault/screenshots/map.md">📷 <b>Screenshots</b></a>
+<a href="projects/C-vault/screenshots/map.md">📷 <b>Screenshots</b></a>
 
 ---
 

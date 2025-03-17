@@ -1,4 +1,4 @@
-# C-Vault: Screenshots 
+# C-vault: Screenshots 
 
 <img src="C-vault-1.png" alt="C-vault_logo" width="150">
 
