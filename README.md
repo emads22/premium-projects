@@ -125,7 +125,12 @@ I offer **flexible access options** based on your needs. Whether you need **full
 - Want to **build an entirely new Python or LLM-powered project from scratch**? 🔥  
 
 ### **3️⃣ Secure Payment**  
-💰 **Payments are processed through PayPal, Stripe, or Wise**, with industry-standard encryption ensuring security and reliability. Pricing varies based on access level and customization.  
+💰 **Available Payment Methods:**  
+- **USDT (Binance)** - Secure crypto transactions *(details upon request)*  
+- **International Money Transfer** - Reliable services like **Western Union**  
+- **Bank Transfer** - Contact for details  
+
+💡 **Pricing is based on access level and customization needs.** Reach out to discuss.  
 
 ### **4️⃣ Receive Access**  
 🔹 **GitHub Access** - You’ll be added as a collaborator for full repo access within **24 hours**.  
