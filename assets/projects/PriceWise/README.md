@@ -1,4 +1,4 @@
-# PriceWise - AI Deal Finder
+# PriceWise: AI Deal Finder
 
 <img src="screenshots/PriceWise-1.png" alt="PriceWise_logo" width="300">
 
