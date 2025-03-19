@@ -146,4 +146,10 @@ C-vault offers a comprehensive solution for efficiently managing and archiving c
 
 ---
 
+## License
+<!-- This project is licensed under the [END-USER LICENSE AGREEMENT (EULA)](LICENSE). -->
+This project is governed by the [END-USER LICENSE AGREEMENT (EULA)](LICENSE). All rights are reserved according to the terms specified in the agreement.
+
+---
+
 ### ⬅ [🔗 Back to Premium Projects](../../README.md#-application-development)
