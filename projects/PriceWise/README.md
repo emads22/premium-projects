@@ -2,11 +2,13 @@
 
 <img src="screenshots/PriceWise-1.png" alt="PriceWise_logo" width="300">
 
-## Overview
+## Overview 
 
-**PriceWise** is an AI-powered deal discovery platform that leverages machine learning and intelligent data retrieval to analyze e-commerce pricing trends. The application continuously monitors and fetches deals from multiple online sources, predicts fair pricing using AI models, and presents users with the best-discounted offers available. With its automated workflow, PriceWise ensures users stay ahead of price fluctuations and capitalize on the best opportunities.
+**PriceWise** is an AI-powered deal discovery platform that leverages machine learning and intelligent data retrieval to analyze e-commerce pricing trends. The application continuously monitors and fetches deals from multiple online sources, predicts fair pricing using AI models, and presents users with the best-discounted offers available. With its automated workflow, PriceWise ensures users stay ahead of price fluctuations and capitalize on the best opportunities.  
 
-The application runs in **real-time**, operating on a **5-minute cycle** to fetch and analyze the latest deals. Users can interact with the Gradio UI to view the most recent findings, and clicking on any deal in the UI triggers an automatic **Pushover notification**, alerting the user about the specific deal.
+At the core of its price prediction system, **PriceWise features a fine-tuned, quantized Meta-Llama/Meta-Llama-3.1-8B model trained on 30,000+ e-commerce products**. This model, optimized using **QLoRA and PEFT**, predicts fair market prices based on product categories, enhancing the platform’s ability to identify the best-value deals.  
+
+The application runs in **real-time**, operating on a **5-minute cycle** to fetch and analyze the latest deals. Users can interact with the Gradio UI to view the most recent findings, and clicking on any deal in the UI triggers an automatic **Pushover notification**, alerting the user about the specific deal.  
 
 ---
 
@@ -40,11 +42,20 @@ PriceWise utilizes a system of **7 intelligent agents** that work together to sc
   - Generates an estimated price based on **product similarities and contextual data**.
   
 ### **3. PriceGen Agent**
-- **Purpose:** A fine-tuned private LLM that provides accurate price estimations.
+- **Purpose:** A specialized, fine-tuned **Meta-Llama/Meta-Llama-3.1-8B** model, optimized for precise price estimations across multiple product categories.  
 - **Functionality:**
-  - Hosted on **Hugging Face** and deployed via **Modal**.
-  - Trained and monitored for price prediction accuracy.
-  - Acts as a dedicated endpoint for retrieving item price estimations.
+  - **Quantized to 4-bit precision** using **QLoRA (Quantized Low-Rank Adaptation)** for efficient inference and reduced memory footprint.
+  - Fine-tuned with **PEFT (Parameter-Efficient Fine-Tuning)** to adapt the base model efficiently without modifying full model weights.
+  - **Fine-Tuning Pipeline:**
+    - Configured using **`LoraConfig()`** to apply Low-Rank Adaptation efficiently.
+    - Managed using **`SFTConfig()`** to control fine-tuning hyperparameters and optimization strategies.
+    - Trained using **`SFTTrainer()`**, ensuring structured supervision and optimized weight updates.
+  - **Dataset Details:**
+    - **Training Set:** 30,000 labeled items spanning multiple product categories.
+    - **Test Set:** 2,000 items for validation and benchmarking.
+  - **Category-Based Predictions:** Unlike the **OpenAI Agent**, which retrieves contextual estimates using a RAG approach, **PriceGen operates independently** by making direct predictions based on learned pricing patterns within specific product categories.
+  - **Deployed via Modal & Hugging Face** for scalable, real-time inference with minimal latency.
+  - **Optimized for accuracy and efficiency**, leveraging LoRA adapters to preserve pre-trained model knowledge while specializing in pricing trends.
   
 ### **4. Fusion Agent**
 - **Purpose:** An AI-driven agent that fuses predictions from multiple models.
