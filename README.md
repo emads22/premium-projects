@@ -1,6 +1,6 @@
 # Premium AI & Software Solutions
 
-<img src="logo/E_circle.png" alt="E_logo" width="300">
+<img src="assets/logo/E_circle.png" alt="E_logo" width="300">
 
 ## 📝 **Overview** 
 In today’s competitive landscape, businesses need **intelligent, scalable, and high-performance solutions** to stay ahead. This collection of **premium projects** offers **cutting-edge software and AI-powered innovations**, providing **ready-to-use, enterprise-grade applications** that can be **customized, expanded, and integrated** to meet your specific business needs.  
@@ -26,86 +26,86 @@ These **high-quality solutions** are built for **real-world impact** and can be 
 
 ## 🧠 AI and LLM Solutions
 
-### [🔒 **DataSynth** 🔗](projects/DataSynth/README.md) 
-<img src="projects/DataSynth/screenshots/DataSynth-1.png" alt="DataSynth_logo" width="150">
+### [🔒 **DataSynth** 🔗](assets/projects/DataSynth/README.md) 
+<img src="assets/projects/DataSynth/screenshots/DataSynth-1.png" alt="DataSynth_logo" width="150">
 
 *AI-driven synthetic dataset generator for researchers, data scientists, and developers. Supports multiple LLMs, allowing seamless dataset creation through an intuitive Gradio-based web UI.*  
 <br>
-<a href="projects/DataSynth/screenshots/map.md">📷 <b>Screenshots</b></a>
+<a href="assets/projects/DataSynth/screenshots/map.md">📷 <b>Screenshots</b></a>
 
 ---
 
-### [🔒 **PriceWise** 🔗](projects/PriceWise/README.md)  
-<img src="projects/PriceWise/screenshots/PriceWise-1.png" alt="PriceWise_logo" width="150">
+### [🔒 **PriceWise** 🔗](assets/projects/PriceWise/README.md)  
+<img src="assets/projects/PriceWise/screenshots/PriceWise-1.png" alt="PriceWise_logo" width="150">
 
 *AI-driven price tracking and deal discovery platform that monitors e-commerce pricing trends in real time. Predicts fair prices using machine learning and sends automated alerts for the best deals.*  
 <br>
-<a href="projects/PriceWise/screenshots/map.md">📷 <b>Screenshots</b></a>
+<a href="assets/projects/PriceWise/screenshots/map.md">📷 <b>Screenshots</b></a>
 
 ---
 
-### [🔒 **MeetingRecap** 🔗](projects/MeetingRecap/README.md)  
-<img src="projects/MeetingRecap/screenshots/MeetingRecap-1.png" alt="MeetingRecap_logo" width="150">
+### [🔒 **MeetingRecap** 🔗](assets/projects/MeetingRecap/README.md)  
+<img src="assets/projects/MeetingRecap/screenshots/MeetingRecap-1.png" alt="MeetingRecap_logo" width="150">
 
 *AI-powered meeting summarization tool that transcribes and extracts key insights from audio recordings. Uses OpenAI's Whisper for speech-to-text conversion and Meta's LLaMA for structured meeting minutes.*  
 <br>
-<a href="projects/MeetingRecap/screenshots/map.md">📷 <b>Screenshots</b></a>
+<a href="assets/projects/MeetingRecap/screenshots/map.md">📷 <b>Screenshots</b></a>
 
 ---
 
-### [🔒 **CalisMind** 🔗](projects/CalisMind/README.md)  
-<img src="projects/CalisMind/screenshots/CalisMind-1.png" alt="CalisMind_logo" width="150">
+### [🔒 **CalisMind** 🔗](assets/projects/CalisMind/README.md)  
+<img src="assets/projects/CalisMind/screenshots/CalisMind-1.png" alt="CalisMind_logo" width="150">
 
 *AI-powered calisthenics assistant that transforms calisthenics knowledge into an interactive learning experience. Get real-time insights, detailed exercise breakdowns, and expert guidance tailored to your fitness journey.*  
 <br>
-<a href="projects/CalisMind/screenshots/map.md">📷 <b>Screenshots</b></a>
+<a href="assets/projects/CalisMind/screenshots/map.md">📷 <b>Screenshots</b></a>
 
 ---
 
 ## 💻 **Application Development**  
 
-### [🔒 **C-vault** 🔗](projects/C-vault/README.md)  
-<img src="projects/C-vault/screenshots/C-vault-1.png" alt="C-vault_logo" width="150">
+### [🔒 **C-vault** 🔗](assets/projects/C-vault/README.md)  
+<img src="assets/projects/C-vault/screenshots/C-vault-1.png" alt="C-vault_logo" width="150">
 
 *Secure, efficient customs declaration management system developed for the Lebanese Customs Authority. Designed in response to the 2020 Port Beirut blast, it leverages advanced security measures and streamlined archiving to prevent data loss and enhance operational efficiency.*  
 <br>
-<a href="projects/C-vault/screenshots/map.md">📷 <b>Screenshots</b></a>
+<a href="assets/projects/C-vault/screenshots/map.md">📷 <b>Screenshots</b></a>
 
 ---
 
-### [🔒 **NoteStruct** 🔗](projects/NoteStruct/README.md) 
-<img src="projects/NoteStruct/screenshots/NoteStruct-1.png" alt="NoteStruct_logo" width="150">
+### [🔒 **NoteStruct** 🔗](assets/projects/NoteStruct/README.md) 
+<img src="assets/projects/NoteStruct/screenshots/NoteStruct-1.png" alt="NoteStruct_logo" width="150">
 
 *A Python tool for generating structured, printable PDF notebooks with customizable topics and layouts. Designed to mimic real notebooks with lined pages and a yellow background, it's perfect for education, study, and professional note-taking.*  
 <br>
-<a href="projects/NoteStruct/screenshots/map.md">📷 <b>Screenshots</b></a>
+<a href="assets/projects/NoteStruct/screenshots/map.md">📷 <b>Screenshots</b></a>
 
 ---
 
-### [🔒 **CensorFace** 🔗](projects/CensorFace/README.md)  
-<img src="projects/CensorFace/screenshots/CensorFace-1.png" alt="CensorFace_logo" width="150">
+### [🔒 **CensorFace** 🔗](assets/projects/CensorFace/README.md)  
+<img src="assets/projects/CensorFace/screenshots/CensorFace-1.png" alt="CensorFace_logo" width="150">
 
 *A Python tool for enhancing privacy in videos by censoring faces using blurring, boxing, or cat face overlays. Ideal for anonymizing individuals in public footage or sensitive content.*  
 <br>
-<a href="projects/CensorFace/screenshots/map.md">📷 <b>Screenshots</b></a>
+<a href="assets/projects/CensorFace/screenshots/map.md">📷 <b>Screenshots</b></a>
 
 ---
 
-### [🔒 **MarketMapper** 🔗](projects/MarketMapper/README.md)  
-<img src="projects/MarketMapper/screenshots/MarketMapper-1.png" alt="MarketMapper_logo" width="150">
+### [🔒 **MarketMapper** 🔗](assets/projects/MarketMapper/README.md)  
+<img src="assets/projects/MarketMapper/screenshots/MarketMapper-1.png" alt="MarketMapper_logo" width="150">
 
 *A Python-based tool for downloading historical stock data from Yahoo Finance and scraping real-time currency conversion rates. Designed for traders, analysts, and finance professionals looking to streamline market data retrieval.*  
 <br>
-<a href="projects/MarketMapper/screenshots/map.md">📷 <b>Screenshots</b></a> 
+<a href="assets/projects/MarketMapper/screenshots/map.md">📷 <b>Screenshots</b></a> 
 
 ---
 
-### [🔒 **ShapeArt** 🔗](projects/ShapeArt/README.md)  
-<img src="projects/ShapeArt/screenshots/ShapeArt-1.png" alt="ShapeArt_logo" width="150">
+### [🔒 **ShapeArt** 🔗](assets/projects/ShapeArt/README.md)  
+<img src="assets/projects/ShapeArt/screenshots/ShapeArt-1.png" alt="ShapeArt_logo" width="150">
 
 *A Python CLI tool for drawing and saving shape-based artwork. Create circles, rectangles, and squares with customizable sizes and colors on a digital canvas.*  
 <br>
-<a href="projects/ShapeArt/screenshots/map.md">📷 <b>Screenshots</b></a>
+<a href="assets/projects/ShapeArt/screenshots/map.md">📷 <b>Screenshots</b></a>
 
 ---
 
