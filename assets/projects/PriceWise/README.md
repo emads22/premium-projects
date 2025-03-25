@@ -24,7 +24,7 @@ The application runs in **real-time**, operating on a **5-minute cycle** to fetc
 ---
 
 ## AI-Powered Agents
-PriceWise utilizes a system of **7 intelligent agents** that work together to scan, predict, and refine deal evaluations:
+PriceWise utilizes a system of **6 intelligent agents** that work together to scan, predict, and refine deal evaluations:
 
 ### **1. Fetcher Agent**
 - **Purpose:** An AI-powered agent that scrapes, selects, and summarizes the most detailed and clearly priced deals from RSS feeds.
