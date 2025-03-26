@@ -4,7 +4,7 @@
 
 ## Overview 
 
-**PriceWise** is an AI-powered deal discovery platform that leverages machine learning and intelligent data retrieval to analyze e-commerce pricing trends. The application continuously monitors and fetches deals from multiple online sources, predicts fair pricing using AI models, and presents users with the best-discounted offers available. With its automated workflow, PriceWise ensures users stay ahead of price fluctuations and capitalize on the best opportunities.  
+**PriceWise** is a multi-agent AI-powered deal discovery platform that leverages machine learning, intelligent data retrieval, and autonomous agents to analyze e-commerce pricing trends. The application continuously monitors and fetches deals from multiple online sources, predicts fair pricing using AI models, and presents users with the best-discounted offers available. With its automated, agent-based workflow, PriceWise ensures users stay ahead of price fluctuations and capitalize on the best opportunities.  
 
 At the core of its price prediction system, **PriceWise features a fine-tuned, quantized Meta-Llama/Meta-Llama-3.1-8B model trained on 30,000+ e-commerce products**. This model, optimized using **QLoRA and PEFT**, predicts fair market prices based on product categories, enhancing the platform’s ability to identify the best-value deals.  
 
