@@ -4,7 +4,9 @@
 
 ## Overview
 
-**CalisMind** is an intelligent, AI-powered application crafted to revolutionize the learning experience for calisthenics enthusiasts. By leveraging state-of-the-art language models, it transforms vast calisthenics knowledge bases into an interactive and accessible resource. Users can engage in real-time Q&A sessions, explore specific techniques, and retrieve detailed insights, all tailored to their unique fitness goals and queries.
+**CalisMind** is an intelligent, AI-powered application crafted to revolutionize the learning experience for calisthenics enthusiasts. By leveraging state-of-the-art language models and a **Retrieval-Augmented Generation (RAG) pipeline**, it transforms vast calisthenics knowledge bases into an interactive and accessible resource. The RAG architecture combines vector-based document retrieval with powerful LLMs to ensure responses are context-aware, accurate, and grounded in real-world data.
+
+Users can engage in real-time Q&A sessions, explore specific techniques, and retrieve detailed insights, all tailored to their unique fitness goals and queries.
 
 Whether you're a beginner looking to master the basics or a seasoned athlete aiming to refine advanced techniques, CalisMind offers unparalleled support. It provides detailed explanations, the benefits of exercises, training programs, and expert advice to help users enhance their understanding and performance in calisthenics. Designed with flexibility and adaptability in mind, CalisMind empowers users to unlock the full potential of their fitness journey with ease and confidence.
 
