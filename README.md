@@ -26,21 +26,21 @@ These **high-quality solutions** are built for **real-world impact** and can be 
 
 ## 🧠 AI and LLM Solutions
 
-### [🔒 **DataSynth** 🔗](assets/projects/DataSynth/README.md)  
-[<img src="assets/projects/DataSynth/screenshots/DataSynth-1.png" alt="DataSynth_logo" width="150">](assets/projects/DataSynth/README.md)
-
-*AI-driven synthetic dataset generator for researchers, data scientists, and developers. Supports multiple LLMs, allowing seamless dataset creation through an intuitive Gradio-based web UI.*  
-<br>
-<a href="assets/projects/DataSynth/screenshots/map.md">📷 <b>Screenshots</b></a>
-
----
-
 ### [🔒 **PriceWise** 🔗](assets/projects/PriceWise/README.md)  
 [<img src="assets/projects/PriceWise/screenshots/PriceWise-1.png" alt="PriceWise_logo" width="150">](assets/projects/PriceWise/README.md) 
 
 *AI-driven price tracking and deal discovery platform that monitors e-commerce pricing trends in real time. Predicts fair prices using machine learning and sends automated alerts for the best deals.*  
 <br>
 <a href="assets/projects/PriceWise/screenshots/map.md">📷 <b>Screenshots</b></a>
+
+---
+
+### [🔒 **CalisMind** 🔗](assets/projects/CalisMind/README.md)  
+[<img src="assets/projects/CalisMind/screenshots/CalisMind-1.png" alt="CalisMind_logo" width="150">](assets/projects/CalisMind/README.md) 
+
+*AI-powered calisthenics assistant that transforms calisthenics knowledge into an interactive learning experience. Get real-time insights, detailed exercise breakdowns, and expert guidance tailored to your fitness journey.*  
+<br>
+<a href="assets/projects/CalisMind/screenshots/map.md">📷 <b>Screenshots</b></a>
 
 ---
 
@@ -53,12 +53,12 @@ These **high-quality solutions** are built for **real-world impact** and can be 
 
 ---
 
-### [🔒 **CalisMind** 🔗](assets/projects/CalisMind/README.md)  
-[<img src="assets/projects/CalisMind/screenshots/CalisMind-1.png" alt="CalisMind_logo" width="150">](assets/projects/CalisMind/README.md) 
+### [🔒 **DataSynth** 🔗](assets/projects/DataSynth/README.md)  
+[<img src="assets/projects/DataSynth/screenshots/DataSynth-1.png" alt="DataSynth_logo" width="150">](assets/projects/DataSynth/README.md)
 
-*AI-powered calisthenics assistant that transforms calisthenics knowledge into an interactive learning experience. Get real-time insights, detailed exercise breakdowns, and expert guidance tailored to your fitness journey.*  
+*AI-driven synthetic dataset generator for researchers, data scientists, and developers. Supports multiple LLMs, allowing seamless dataset creation through an intuitive Gradio-based web UI.*  
 <br>
-<a href="assets/projects/CalisMind/screenshots/map.md">📷 <b>Screenshots</b></a>
+<a href="assets/projects/DataSynth/screenshots/map.md">📷 <b>Screenshots</b></a>
 
 ---
 
