@@ -1,5 +1,5 @@
 
-# MeetingRecap
+# MeetingRecap: AI App for Auto-Generating Meeting Minutes
 
 <img src="screenshots/MeetingRecap-1.png" alt="MeetingRecap_logo" width="300">
 
